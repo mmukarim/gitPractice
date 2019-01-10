@@ -1,1 +1,2 @@
 This is first git.
+On day 2.
